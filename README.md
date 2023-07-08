@@ -8,10 +8,3 @@ very strong tool to have on someone's toolkit.
 
 The course I am using is a free one from [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) on YouTube. You can find it [here](https://www.youtube.com/watch?v=RdMAEdGvtLA)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | ###7 | 8 | 9 | 10 | 11 | 12 | 13 | ... | 72 | 73 | ... | 80 |
-|    Sequence           |    | |      A       |         B          | Identification|
-|     Number            |    | |     Area     |       Area       |      Area       |
-|      Area             |    | |              |                  |                 |
-                             |
-                        Indicator
-                          Area
