@@ -40,9 +40,9 @@ of these reserved words [here](https://www.ibm.com/docs/en/cobol-zos/6.3?topic=a
 3. **Paragraphs**: Basically, they are containers of *sentences*. User defined code that will give the program structure. They can have specific names, so they can be called.
 4. **Sections**: They are *paragraph* containers. They can have user defined of predefined names to give the program structure, or store information.
 5. **Divisions**: `COBOL` has four different kinds of devisions:
-⋅⋅* **Identification Division**: This is where information about the program goes, like the name, the writer's name, how it should be used, etc.
-⋅⋅* **Environment Division**: There are two major sections here. The one that the programmer sets, which contains the computer environment requred to run
+    * **Identification Division**: This is where information about the program goes, like the name, the writer's name, how it should be used, etc.
+    * **Environment Division**: There are two major sections here. The one that the programmer sets, which contains the computer environment requred to run
 the program and the other sets the mapping between the files and the program and the files on the actual data sets. Basically, it is the link between the program and the system it is running on.
-⋅⋅* **Data Division**: It sets all of the data that will be used through the program. It includes files, data from other programs, what type of storage or memory you  will use while the program is running and what it will give up when the program ends. 
-⋅⋅* **Procedure Division** This is where all those sections and paragraphs go. 
+    * **Data Division**: It sets all of the data that will be used through the program. It includes files, data from other programs, what type of storage or memory you  will use while the program is running and what it will give up when the program ends. 
+    * **Procedure Division** This is where all those sections and paragraphs go. 
 
